@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+options: "734b5f112424f8dceaf8d03d2ca65879"
+build_time: [1589382920, 682364000]
+inputs:
+  "/Users/ksenia/university_second_cours/newclimate/newclimate/SecondViewController.swift": [1589382920, 389762638]
+  "/Users/ksenia/university_second_cours/newclimate/newclimate/Model/WeatherDataModel.swift": [1588972847, 484101453]
+  "/Users/ksenia/university_second_cours/newclimate/newclimate/ViewController.swift": [1589382920, 411397603]
+  "/Users/ksenia/university_second_cours/try/try/AppDelegate.swift": [1588949756, 766448969]
+  "/Users/ksenia/university_second_cours/newclimate/newclimate/SceneDelegate.swift": [1588949756, 750324117]

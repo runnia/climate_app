@@ -1,0 +1,95 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "WeatherDataModel"
+provides-nominal:
+- "7Climate16WeatherDataModelC"
+provides-member:
+- ["7Climate16WeatherDataModelC", ""]
+provides-dynamic-lookup:
+- "city"
+- "condition"
+- "firstCondition"
+- "firstTemp"
+- "firstWeatherIconName"
+- "secondCondition"
+- "secondTemp"
+- "secondWeatherIconName"
+- "temperature"
+- "thirdCondition"
+- "thirdTemp"
+- "thirdWeatherIconName"
+- "updateWeatherIcon"
+- "weatherIconName"
+depends-top-level:
+- !private "..."
+- "FloatLiteralType"
+- "Int"
+- "IntegerLiteralType"
+- "String"
+- "StringLiteralType"
+- "WeatherDataModel"
+- !private "~="
+depends-member:
+- ["7Climate16WeatherDataModelC", "Int"]
+- ["7Climate16WeatherDataModelC", "String"]
+- ["7Climate16WeatherDataModelC", "city"]
+- ["7Climate16WeatherDataModelC", "condition"]
+- ["7Climate16WeatherDataModelC", "deinit"]
+- ["7Climate16WeatherDataModelC", "firstCondition"]
+- ["7Climate16WeatherDataModelC", "firstTemp"]
+- ["7Climate16WeatherDataModelC", "firstWeatherIconName"]
+- ["7Climate16WeatherDataModelC", "init"]
+- ["7Climate16WeatherDataModelC", "secondCondition"]
+- ["7Climate16WeatherDataModelC", "secondTemp"]
+- ["7Climate16WeatherDataModelC", "secondWeatherIconName"]
+- ["7Climate16WeatherDataModelC", "temperature"]
+- ["7Climate16WeatherDataModelC", "thirdCondition"]
+- ["7Climate16WeatherDataModelC", "thirdTemp"]
+- ["7Climate16WeatherDataModelC", "thirdWeatherIconName"]
+- ["7Climate16WeatherDataModelC", "updateWeatherIcon"]
+- ["7Climate16WeatherDataModelC", "weatherIconName"]
+depends-nominal:
+- "7Climate16WeatherDataModelC"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/ObjectiveC.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreImage.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/QuartzCore.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Dispatch.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Metal.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Darwin.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreLocation.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Foundation.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreFoundation.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreGraphics.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Swift.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/UIKit.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/SwiftOnoneSupport.swiftmodule/arm64.swiftmodule"
+- "/Users/ksenia/university_second_cours/newclimate/DerivedData/newclimate/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Combine.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Users/ksenia/university_second_cours/newclimate/DerivedData/newclimate/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Users/ksenia/university_second_cours/newclimate/DerivedData/newclimate/Build/Products/Debug-iphoneos/Weekday/Weekday.framework/Modules/Weekday.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Users/ksenia/university_second_cours/newclimate/DerivedData/newclimate/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/ksenia/university_second_cours/newclimate/DerivedData/newclimate/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/ksenia/university_second_cours/newclimate/DerivedData/newclimate/Build/Products/Debug-iphoneos/Weekday/Weekday.framework/Headers/Weekday-umbrella.h"
+- "/Users/ksenia/university_second_cours/newclimate/DerivedData/newclimate/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/ksenia/university_second_cours/newclimate/DerivedData/newclimate/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/ksenia/university_second_cours/newclimate/DerivedData/newclimate/Build/Products/Debug-iphoneos/Weekday/Weekday.framework/Headers/Weekday-Swift.h"
+- "/Users/ksenia/university_second_cours/newclimate/DerivedData/newclimate/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/ksenia/university_second_cours/newclimate/DerivedData/newclimate/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/ksenia/university_second_cours/newclimate/DerivedData/newclimate/Build/Products/Debug-iphoneos/Weekday/Weekday.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "da0b11c438d079b8933ecee7cff17978"

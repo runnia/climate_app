@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.9.1)
+  - SVProgressHUD (2.2.5)
+  - SwiftyJSON (5.0.0)
+  - Weekday (0.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - SVProgressHUD
+  - SwiftyJSON
+  - Weekday
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SVProgressHUD
+    - SwiftyJSON
+    - Weekday
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  Weekday: af5777ae3b9d9d2bc5dfe23bb194e02f1507ff66
+
+PODFILE CHECKSUM: fcb4a960ff9b098910c23c492c111bf3759e89bb
+
+COCOAPODS: 1.9.1

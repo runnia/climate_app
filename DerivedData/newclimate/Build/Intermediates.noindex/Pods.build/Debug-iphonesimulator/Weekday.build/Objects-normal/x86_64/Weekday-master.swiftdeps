@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+options: "0065beb9b2f38f36c573aa11c14c2c31"
+build_time: [1589044608, 320076000]
+inputs:
+  "/Users/ksenia/university_second_cours/newclimate/Pods/Weekday/Sources/Weekday/Weekday.swift": [1588974672, 736698969]

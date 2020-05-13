@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>09A81D09-772A-47F8-B0A7-389A45FF8069</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>09A81D09-772A-47F8-B0A7-389A45FF8069.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>newclimate project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>newclimate</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build newclimate</string>
+			<key>timeStartedRecording</key>
+			<real>611074729.615852</real>
+			<key>timeStoppedRecording</key>
+			<real>611074739.50037599</real>
+			<key>title</key>
+			<string>Build newclimate</string>
+			<key>uniqueIdentifier</key>
+			<string>09A81D09-772A-47F8-B0A7-389A45FF8069</string>
+		</dict>
+		<key>0C0DB95E-CEBD-4FE3-8ACF-4AA265AA0922</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0C0DB95E-CEBD-4FE3-8ACF-4AA265AA0922.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>newclimate project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>newclimate</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build newclimate</string>
+			<key>timeStartedRecording</key>
+			<real>611075134.63806295</real>
+			<key>timeStoppedRecording</key>
+			<real>611075138.41678905</real>
+			<key>title</key>
+			<string>Build newclimate</string>
+			<key>uniqueIdentifier</key>
+			<string>0C0DB95E-CEBD-4FE3-8ACF-4AA265AA0922</string>
+		</dict>
+		<key>2CAC93ED-B297-4A5C-8336-D35410E2BE38</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2CAC93ED-B297-4A5C-8336-D35410E2BE38.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>newclimate project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>newclimate</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build newclimate</string>
+			<key>timeStartedRecording</key>
+			<real>611071900.70968401</real>
+			<key>timeStoppedRecording</key>
+			<real>611071910.51884604</real>
+			<key>title</key>
+			<string>Build newclimate</string>
+			<key>uniqueIdentifier</key>
+			<string>2CAC93ED-B297-4A5C-8336-D35410E2BE38</string>
+		</dict>
+		<key>34CA4279-C333-4B5E-94EF-918BA69F28BC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>34CA4279-C333-4B5E-94EF-918BA69F28BC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>newclimate project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>newclimate</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build newclimate</string>
+			<key>timeStartedRecording</key>
+			<real>611075229.49129498</real>
+			<key>timeStoppedRecording</key>
+			<real>611075232.31801295</real>
+			<key>title</key>
+			<string>Build newclimate</string>
+			<key>uniqueIdentifier</key>
+			<string>34CA4279-C333-4B5E-94EF-918BA69F28BC</string>
+		</dict>
+		<key>36F4D5A6-B5C7-414B-A824-69203A75FB92</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>36F4D5A6-B5C7-414B-A824-69203A75FB92.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>newclimate project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>newclimate</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build newclimate</string>
+			<key>timeStartedRecording</key>
+			<real>610738982.24296999</real>
+			<key>timeStoppedRecording</key>
+			<real>610738985.49022198</real>
+			<key>title</key>
+			<string>Build newclimate</string>
+			<key>uniqueIdentifier</key>
+			<string>36F4D5A6-B5C7-414B-A824-69203A75FB92</string>
+		</dict>
+		<key>387FBA1D-7A68-4226-A745-68113D70E9F4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>387FBA1D-7A68-4226-A745-68113D70E9F4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>newclimate project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>newclimate</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build newclimate</string>
+			<key>timeStartedRecording</key>
+			<real>611071817.70095098</real>
+			<key>timeStoppedRecording</key>
+			<real>611071831.756652</real>
+			<key>title</key>
+			<string>Build newclimate</string>
+			<key>uniqueIdentifier</key>
+			<string>387FBA1D-7A68-4226-A745-68113D70E9F4</string>
+		</dict>
+		<key>4077FAD5-4F2C-468A-8E6A-2D543E4C74FA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4077FAD5-4F2C-468A-8E6A-2D543E4C74FA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>newclimate project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>newclimate</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build newclimate</string>
+			<key>timeStartedRecording</key>
+			<real>611074987.77203298</real>
+			<key>timeStoppedRecording</key>
+			<real>611074990.64249599</real>
+			<key>title</key>
+			<string>Build newclimate</string>
+			<key>uniqueIdentifier</key>
+			<string>4077FAD5-4F2C-468A-8E6A-2D543E4C74FA</string>
+		</dict>
+		<key>96225BB5-70A9-46DB-B54B-8A4AD4BAD12D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>96225BB5-70A9-46DB-B54B-8A4AD4BAD12D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>newclimate project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>newclimate</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build newclimate</string>
+			<key>timeStartedRecording</key>
+			<real>611076105.34725201</real>
+			<key>timeStoppedRecording</key>
+			<real>611076116.98184502</real>
+			<key>title</key>
+			<string>Build newclimate</string>
+			<key>uniqueIdentifier</key>
+			<string>96225BB5-70A9-46DB-B54B-8A4AD4BAD12D</string>
+		</dict>
+		<key>9E14D9D2-D00F-46A5-8210-94DF23A371BD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9E14D9D2-D00F-46A5-8210-94DF23A371BD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>newclimate project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>newclimate</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build newclimate</string>
+			<key>timeStartedRecording</key>
+			<real>611075041.93001604</real>
+			<key>timeStoppedRecording</key>
+			<real>611075045.09036601</real>
+			<key>title</key>
+			<string>Build newclimate</string>
+			<key>uniqueIdentifier</key>
+			<string>9E14D9D2-D00F-46A5-8210-94DF23A371BD</string>
+		</dict>
+		<key>9FF079B5-EF52-4E42-AA02-C49B2D60A9F9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9FF079B5-EF52-4E42-AA02-C49B2D60A9F9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>newclimate project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>newclimate</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build newclimate</string>
+			<key>timeStartedRecording</key>
+			<real>611071651.24347401</real>
+			<key>timeStoppedRecording</key>
+			<real>611071669.40489602</real>
+			<key>title</key>
+			<string>Build newclimate</string>
+			<key>uniqueIdentifier</key>
+			<string>9FF079B5-EF52-4E42-AA02-C49B2D60A9F9</string>
+		</dict>
+		<key>AFE61AA9-5A75-435F-BE37-C88D21296297</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AFE61AA9-5A75-435F-BE37-C88D21296297.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>newclimate project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>newclimate</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build newclimate</string>
+			<key>timeStartedRecording</key>
+			<real>611075720.44821799</real>
+			<key>timeStoppedRecording</key>
+			<real>611075728.31877196</real>
+			<key>title</key>
+			<string>Build newclimate</string>
+			<key>uniqueIdentifier</key>
+			<string>AFE61AA9-5A75-435F-BE37-C88D21296297</string>
+		</dict>
+		<key>C1A03C0E-9B34-4A0C-814E-7BFA2F508815</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C1A03C0E-9B34-4A0C-814E-7BFA2F508815.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>newclimate project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>newclimate</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build newclimate</string>
+			<key>timeStartedRecording</key>
+			<real>611071848.95044196</real>
+			<key>timeStoppedRecording</key>
+			<real>611071849.03869796</real>
+			<key>title</key>
+			<string>Build newclimate</string>
+			<key>uniqueIdentifier</key>
+			<string>C1A03C0E-9B34-4A0C-814E-7BFA2F508815</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

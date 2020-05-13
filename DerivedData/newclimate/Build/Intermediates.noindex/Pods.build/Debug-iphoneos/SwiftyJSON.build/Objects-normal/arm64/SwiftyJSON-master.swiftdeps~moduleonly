@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+options: "66fdf418ca67ec6f75d42a07cd95642d"
+build_time: [1588974677, 670505000]
+inputs:
+  "/Users/ksenia/university_second_cours/newclimate/Pods/SwiftyJSON/Source/SwiftyJSON/SwiftyJSON.swift": [1588950938, 277490418]

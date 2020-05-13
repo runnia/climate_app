@@ -1,0 +1,6 @@
+framework module Weekday {
+  umbrella header "Weekday-umbrella.h"
+
+  export *
+  module * { export * }
+}

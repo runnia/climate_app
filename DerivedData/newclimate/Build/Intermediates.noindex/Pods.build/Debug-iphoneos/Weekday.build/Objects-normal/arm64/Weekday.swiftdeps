@@ -1,0 +1,454 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Weekday"
+provides-nominal:
+- "7WeekdayAAO"
+provides-member:
+- ["7WeekdayAAO", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "+"
+- !private "+="
+- !private "-"
+- !private "-="
+- !private "..."
+- !private "<"
+- "=="
+- !private ">"
+- "AssignmentPrecedence"
+- "Bool"
+- "Calendar"
+- "Date"
+- !private "DateFormatter"
+- "FloatLiteralType"
+- "Int"
+- "IntegerLiteralType"
+- "String"
+- "Weekday"
+- !private "~="
+depends-member:
+- !private ["Sa", "callAsFunction"]
+- !private ["Sa", "contains"]
+- !private ["Sa", "firstIndex"]
+- !private ["Sa", "isEmpty"]
+- !private ["Sa", "subscript"]
+- !private ["SK", "callAsFunction"]
+- !private ["SK", "contains"]
+- !private ["SK", "firstIndex"]
+- !private ["SK", "isEmpty"]
+- !private ["SK", "map"]
+- !private ["SK", "subscript"]
+- !private ["Sb", "callAsFunction"]
+- !private ["s7CVarArgP", "callAsFunction"]
+- !private ["s7CVarArgP", "contains"]
+- !private ["s7CVarArgP", "firstIndex"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isEmpty"]
+- !private ["s7CVarArgP", "shortWeekdaySymbols"]
+- !private ["s7CVarArgP", "standaloneWeekdaySymbols"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["10Foundation8CalendarV", "component"]
+- !private ["10Foundation8CalendarV", "current"]
+- !private ["10Foundation8CalendarV", "firstWeekday"]
+- !private ["SN", "map"]
+- !private ["Sl", "callAsFunction"]
+- !private ["Sl", "contains"]
+- !private ["Sl", "firstIndex"]
+- !private ["Sl", "isEmpty"]
+- !private ["Sl", "map"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "init"]
+- !private ["10Foundation8CalendarV9ComponentO", "weekday"]
+- !private ["10Foundation15ContiguousBytesP", "callAsFunction"]
+- !private ["10Foundation15ContiguousBytesP", "contains"]
+- !private ["10Foundation15ContiguousBytesP", "firstIndex"]
+- !private ["10Foundation15ContiguousBytesP", "isEmpty"]
+- !private ["10Foundation15ContiguousBytesP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "callAsFunction"]
+- !private ["s28CustomDebugStringConvertibleP", "component"]
+- !private ["s28CustomDebugStringConvertibleP", "contains"]
+- !private ["s28CustomDebugStringConvertibleP", "current"]
+- !private ["s28CustomDebugStringConvertibleP", "firstIndex"]
+- !private ["s28CustomDebugStringConvertibleP", "firstWeekday"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isEmpty"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "shortWeekdaySymbols"]
+- !private ["s28CustomDebugStringConvertibleP", "standaloneWeekdaySymbols"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s17CustomReflectableP", "callAsFunction"]
+- !private ["s17CustomReflectableP", "component"]
+- !private ["s17CustomReflectableP", "contains"]
+- !private ["s17CustomReflectableP", "current"]
+- !private ["s17CustomReflectableP", "firstIndex"]
+- !private ["s17CustomReflectableP", "firstWeekday"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "isEmpty"]
+- !private ["s17CustomReflectableP", "map"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "callAsFunction"]
+- !private ["s23CustomStringConvertibleP", "component"]
+- !private ["s23CustomStringConvertibleP", "contains"]
+- !private ["s23CustomStringConvertibleP", "current"]
+- !private ["s23CustomStringConvertibleP", "firstIndex"]
+- !private ["s23CustomStringConvertibleP", "firstWeekday"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isEmpty"]
+- !private ["s23CustomStringConvertibleP", "map"]
+- !private ["s23CustomStringConvertibleP", "shortWeekdaySymbols"]
+- !private ["s23CustomStringConvertibleP", "standaloneWeekdaySymbols"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["10Foundation12DataProtocolP", "callAsFunction"]
+- !private ["10Foundation12DataProtocolP", "contains"]
+- !private ["10Foundation12DataProtocolP", "firstIndex"]
+- !private ["10Foundation12DataProtocolP", "isEmpty"]
+- !private ["10Foundation12DataProtocolP", "subscript"]
+- !private ["10Foundation4DateV", "init"]
+- !private ["So15NSDateFormatterC", "init"]
+- !private ["So15NSDateFormatterC", "shortWeekdaySymbols"]
+- !private ["So15NSDateFormatterC", "standaloneWeekdaySymbols"]
+- !private ["Se", "callAsFunction"]
+- !private ["Se", "component"]
+- !private ["Se", "contains"]
+- !private ["Se", "current"]
+- !private ["Se", "firstIndex"]
+- !private ["Se", "firstWeekday"]
+- !private ["Se", "init"]
+- !private ["Se", "isEmpty"]
+- !private ["Se", "map"]
+- !private ["Se", "subscript"]
+- !private ["SE", "callAsFunction"]
+- !private ["SE", "component"]
+- !private ["SE", "contains"]
+- !private ["SE", "current"]
+- !private ["SE", "firstIndex"]
+- !private ["SE", "firstWeekday"]
+- !private ["SE", "init"]
+- !private ["SE", "isEmpty"]
+- !private ["SE", "map"]
+- !private ["SE", "subscript"]
+- ["SQ", "=="]
+- !private ["SQ", "Calendar"]
+- !private ["SQ", "Date"]
+- !private ["SQ", "DateFormatter"]
+- ["SQ", "RawValue"]
+- !private ["SQ", "Weekday"]
+- ["SQ", ""]
+- ["SQ", "_Default_RawValue"]
+- ["SQ", "_rawHashValue"]
+- !private ["SQ", "all"]
+- !private ["SQ", "callAsFunction"]
+- !private ["SQ", "compare"]
+- !private ["SQ", "component"]
+- !private ["SQ", "contains"]
+- !private ["SQ", "current"]
+- !private ["SQ", "firstIndex"]
+- !private ["SQ", "firstNext"]
+- !private ["SQ", "firstWeekday"]
+- ["SQ", "friday"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- !private ["SQ", "indexValueFor"]
+- !private ["SQ", "indexValueForCalendar"]
+- !private ["SQ", "indexValueForSundayStarting"]
+- ["SQ", "init"]
+- !private ["SQ", "isEmpty"]
+- !private ["SQ", "isToday"]
+- !private ["SQ", "map"]
+- ["SQ", "monday"]
+- !private ["SQ", "next"]
+- !private ["SQ", "previous"]
+- ["SQ", "rawValue"]
+- ["SQ", "saturday"]
+- !private ["SQ", "shortWeekdaySymbols"]
+- !private ["SQ", "standaloneWeekdaySymbols"]
+- !private ["SQ", "subscript"]
+- ["SQ", "sunday"]
+- !private ["SQ", "sundayStartingRawValue"]
+- ["SQ", "thursday"]
+- ["SQ", "tuesday"]
+- ["SQ", "wednesday"]
+- !private ["SQ", "weekday"]
+- !private ["s25ExpressibleByArrayLiteralP", "callAsFunction"]
+- !private ["s25ExpressibleByArrayLiteralP", "contains"]
+- !private ["s25ExpressibleByArrayLiteralP", "firstIndex"]
+- !private ["s25ExpressibleByArrayLiteralP", "isEmpty"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s27ExpressibleByBooleanLiteralP", "callAsFunction"]
+- !private ["So11NSFormatterC", "init"]
+- !private ["So11NSFormatterC", "shortWeekdaySymbols"]
+- !private ["So11NSFormatterC", "standaloneWeekdaySymbols"]
+- ["SH", "=="]
+- !private ["SH", "Calendar"]
+- !private ["SH", "Date"]
+- !private ["SH", "DateFormatter"]
+- ["SH", "RawValue"]
+- !private ["SH", "Weekday"]
+- ["SH", ""]
+- ["SH", "_Default_RawValue"]
+- ["SH", "_rawHashValue"]
+- !private ["SH", "all"]
+- !private ["SH", "callAsFunction"]
+- !private ["SH", "compare"]
+- !private ["SH", "component"]
+- !private ["SH", "contains"]
+- !private ["SH", "current"]
+- !private ["SH", "firstIndex"]
+- !private ["SH", "firstNext"]
+- !private ["SH", "firstWeekday"]
+- ["SH", "friday"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- !private ["SH", "indexValueFor"]
+- !private ["SH", "indexValueForCalendar"]
+- !private ["SH", "indexValueForSundayStarting"]
+- ["SH", "init"]
+- !private ["SH", "isEmpty"]
+- !private ["SH", "isToday"]
+- !private ["SH", "map"]
+- ["SH", "monday"]
+- !private ["SH", "next"]
+- !private ["SH", "previous"]
+- ["SH", "rawValue"]
+- ["SH", "saturday"]
+- !private ["SH", "shortWeekdaySymbols"]
+- !private ["SH", "standaloneWeekdaySymbols"]
+- !private ["SH", "subscript"]
+- ["SH", "sunday"]
+- !private ["SH", "sundayStartingRawValue"]
+- ["SH", "thursday"]
+- ["SH", "tuesday"]
+- ["SH", "wednesday"]
+- !private ["SH", "weekday"]
+- !private ["s25LosslessStringConvertibleP", "callAsFunction"]
+- !private ["SM", "callAsFunction"]
+- !private ["SM", "contains"]
+- !private ["SM", "firstIndex"]
+- !private ["SM", "isEmpty"]
+- !private ["SM", "subscript"]
+- !private ["10Foundation19MutableDataProtocolP", "callAsFunction"]
+- !private ["10Foundation19MutableDataProtocolP", "contains"]
+- !private ["10Foundation19MutableDataProtocolP", "firstIndex"]
+- !private ["10Foundation19MutableDataProtocolP", "isEmpty"]
+- !private ["10Foundation19MutableDataProtocolP", "subscript"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "shortWeekdaySymbols"]
+- !private ["So8NSCodingP", "standaloneWeekdaySymbols"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "shortWeekdaySymbols"]
+- !private ["So9NSCopyingP", "standaloneWeekdaySymbols"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "shortWeekdaySymbols"]
+- !private ["So8NSObjectC", "standaloneWeekdaySymbols"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "shortWeekdaySymbols"]
+- !private ["So8NSObjectP", "standaloneWeekdaySymbols"]
+- !private ["Sk", "callAsFunction"]
+- !private ["Sk", "contains"]
+- !private ["Sk", "firstIndex"]
+- !private ["Sk", "isEmpty"]
+- !private ["Sk", "map"]
+- !private ["Sk", "subscript"]
+- !private ["SX", "map"]
+- !private ["Sm", "callAsFunction"]
+- !private ["Sm", "contains"]
+- !private ["Sm", "firstIndex"]
+- !private ["Sm", "isEmpty"]
+- !private ["Sm", "subscript"]
+- ["SY", "=="]
+- !private ["SY", "Calendar"]
+- !private ["SY", "Date"]
+- !private ["SY", "DateFormatter"]
+- ["SY", "RawValue"]
+- !private ["SY", "Weekday"]
+- ["SY", ""]
+- ["SY", "_Default_RawValue"]
+- ["SY", "_rawHashValue"]
+- !private ["SY", "all"]
+- !private ["SY", "callAsFunction"]
+- !private ["SY", "compare"]
+- !private ["SY", "firstNext"]
+- ["SY", "friday"]
+- ["SY", "hash"]
+- ["SY", "hashValue"]
+- !private ["SY", "indexValueFor"]
+- !private ["SY", "indexValueForCalendar"]
+- !private ["SY", "indexValueForSundayStarting"]
+- ["SY", "init"]
+- !private ["SY", "isToday"]
+- ["SY", "monday"]
+- !private ["SY", "next"]
+- !private ["SY", "previous"]
+- ["SY", "rawValue"]
+- ["SY", "saturday"]
+- ["SY", "sunday"]
+- !private ["SY", "sundayStartingRawValue"]
+- ["SY", "thursday"]
+- ["SY", "tuesday"]
+- ["SY", "wednesday"]
+- !private ["10Foundation20ReferenceConvertibleP", "component"]
+- !private ["10Foundation20ReferenceConvertibleP", "current"]
+- !private ["10Foundation20ReferenceConvertibleP", "firstWeekday"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["ST", "callAsFunction"]
+- !private ["ST", "contains"]
+- !private ["ST", "firstIndex"]
+- !private ["ST", "isEmpty"]
+- !private ["ST", "map"]
+- !private ["ST", "subscript"]
+- ["7WeekdayAAO", "=="]
+- ["7WeekdayAAO", "Bool"]
+- ["7WeekdayAAO", "Calendar"]
+- ["7WeekdayAAO", "Date"]
+- !private ["7WeekdayAAO", "DateFormatter"]
+- ["7WeekdayAAO", "Int"]
+- ["7WeekdayAAO", "RawValue"]
+- ["7WeekdayAAO", "String"]
+- ["7WeekdayAAO", "Weekday"]
+- ["7WeekdayAAO", "_Default_RawValue"]
+- ["7WeekdayAAO", "_rawHashValue"]
+- ["7WeekdayAAO", "all"]
+- !private ["7WeekdayAAO", "callAsFunction"]
+- ["7WeekdayAAO", "compare"]
+- ["7WeekdayAAO", "current"]
+- ["7WeekdayAAO", "deinit"]
+- ["7WeekdayAAO", "firstNext"]
+- ["7WeekdayAAO", "friday"]
+- ["7WeekdayAAO", "hash"]
+- ["7WeekdayAAO", "hashValue"]
+- ["7WeekdayAAO", "indexValueFor"]
+- ["7WeekdayAAO", "indexValueForCalendar"]
+- ["7WeekdayAAO", "indexValueForMondayStarting"]
+- ["7WeekdayAAO", "indexValueForSundayStarting"]
+- ["7WeekdayAAO", "init"]
+- ["7WeekdayAAO", "isToday"]
+- ["7WeekdayAAO", "localizedName"]
+- ["7WeekdayAAO", "monday"]
+- ["7WeekdayAAO", "mondayStartingRawValue"]
+- ["7WeekdayAAO", "next"]
+- ["7WeekdayAAO", "previous"]
+- ["7WeekdayAAO", "rawValue"]
+- ["7WeekdayAAO", "saturday"]
+- ["7WeekdayAAO", "shortLocalizedName"]
+- ["7WeekdayAAO", "sunday"]
+- ["7WeekdayAAO", "sundayStartingRawValue"]
+- ["7WeekdayAAO", "thursday"]
+- ["7WeekdayAAO", "tuesday"]
+- ["7WeekdayAAO", "wednesday"]
+- ["7WeekdayAAO", "workingDays"]
+- !private ["s14_ArrayProtocolP", "callAsFunction"]
+- !private ["s14_ArrayProtocolP", "contains"]
+- !private ["s14_ArrayProtocolP", "firstIndex"]
+- !private ["s14_ArrayProtocolP", "isEmpty"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "callAsFunction"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s24_DestructorSafeContainerP", "callAsFunction"]
+- !private ["s24_DestructorSafeContainerP", "contains"]
+- !private ["s24_DestructorSafeContainerP", "firstIndex"]
+- !private ["s24_DestructorSafeContainerP", "isEmpty"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "callAsFunction"]
+- !private ["s19_HasContiguousBytesP", "callAsFunction"]
+- !private ["s19_HasContiguousBytesP", "contains"]
+- !private ["s19_HasContiguousBytesP", "firstIndex"]
+- !private ["s19_HasContiguousBytesP", "isEmpty"]
+- !private ["s19_HasContiguousBytesP", "subscript"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "callAsFunction"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "contains"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "firstIndex"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "isEmpty"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shortWeekdaySymbols"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "standaloneWeekdaySymbols"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "shortWeekdaySymbols"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "standaloneWeekdaySymbols"]
+- !private ["s21_ObjectiveCBridgeableP", "callAsFunction"]
+- !private ["s21_ObjectiveCBridgeableP", "component"]
+- !private ["s21_ObjectiveCBridgeableP", "contains"]
+- !private ["s21_ObjectiveCBridgeableP", "current"]
+- !private ["s21_ObjectiveCBridgeableP", "firstIndex"]
+- !private ["s21_ObjectiveCBridgeableP", "firstWeekday"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "isEmpty"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+depends-nominal:
+- !private "Sa"
+- !private "SK"
+- !private "Sb"
+- !private "s7CVarArgP"
+- !private "10Foundation8CalendarV"
+- !private "SN"
+- !private "Sl"
+- !private "SL"
+- !private "10Foundation8CalendarV9ComponentO"
+- !private "10Foundation15ContiguousBytesP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "10Foundation4DateV"
+- !private "So15NSDateFormatterC"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "So11NSFormatterC"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "Sk"
+- !private "SX"
+- !private "Sm"
+- "SY"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "ST"
+- "7WeekdayAAO"
+- !private "s14_ArrayProtocolP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/ObjectiveC.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreImage.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/QuartzCore.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Dispatch.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Metal.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Darwin.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Foundation.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreFoundation.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreGraphics.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Swift.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/UIKit.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/SwiftOnoneSupport.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Combine.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Users/ksenia/university_second_cours/newclimate/Pods/Target Support Files/Weekday/Weekday-umbrella.h"
+- "/Users/ksenia/university_second_cours/newclimate/DerivedData/newclimate/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Weekday.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "9a553c018d435a79f25e8ff617bb2df2"

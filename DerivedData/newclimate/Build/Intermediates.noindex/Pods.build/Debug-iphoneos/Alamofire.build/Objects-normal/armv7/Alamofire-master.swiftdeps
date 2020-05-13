@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+options: "3f4292559aaedd9a43b4d2cd4c19c805"
+build_time: [1589227759, 347198000]
+inputs:
+  "/Users/ksenia/university_second_cours/newclimate/Pods/Alamofire/Source/AFError.swift": [1588950938, 231473380]
+  "/Users/ksenia/university_second_cours/newclimate/Pods/Alamofire/Source/Alamofire.swift": [1588950938, 233936424]
+  "/Users/ksenia/university_second_cours/newclimate/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1588950938, 229045110]
+  "/Users/ksenia/university_second_cours/newclimate/Pods/Alamofire/Source/MultipartFormData.swift": [1588950938, 221332759]
+  "/Users/ksenia/university_second_cours/newclimate/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1588950938, 223096567]
+  "/Users/ksenia/university_second_cours/newclimate/Pods/Alamofire/Source/Notifications.swift": [1588950938, 232674810]
+  "/Users/ksenia/university_second_cours/newclimate/Pods/Alamofire/Source/ParameterEncoding.swift": [1588950938, 230605089]
+  "/Users/ksenia/university_second_cours/newclimate/Pods/Alamofire/Source/Request.swift": [1588950938, 234511380]
+  "/Users/ksenia/university_second_cours/newclimate/Pods/Alamofire/Source/Response.swift": [1588950938, 233322355]
+  "/Users/ksenia/university_second_cours/newclimate/Pods/Alamofire/Source/ResponseSerialization.swift": [1588950938, 235843954]
+  "/Users/ksenia/university_second_cours/newclimate/Pods/Alamofire/Source/Result.swift": [1588950938, 229730272]
+  "/Users/ksenia/university_second_cours/newclimate/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1588950938, 236302129]
+  "/Users/ksenia/university_second_cours/newclimate/Pods/Alamofire/Source/SessionDelegate.swift": [1588950938, 236888206]
+  "/Users/ksenia/university_second_cours/newclimate/Pods/Alamofire/Source/SessionManager.swift": [1588950938, 235211384]
+  "/Users/ksenia/university_second_cours/newclimate/Pods/Alamofire/Source/TaskDelegate.swift": [1588950938, 219069042]
+  "/Users/ksenia/university_second_cours/newclimate/Pods/Alamofire/Source/Timeline.swift": [1588950938, 226364341]
+  "/Users/ksenia/university_second_cours/newclimate/Pods/Alamofire/Source/Validation.swift": [1588950938, 232162197]

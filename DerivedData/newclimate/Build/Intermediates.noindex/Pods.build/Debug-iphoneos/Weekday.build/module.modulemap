@@ -1,0 +1,11 @@
+framework module Weekday {
+  umbrella header "Weekday-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module Weekday.Swift {
+    header "Weekday-Swift.h"
+    requires objc
+}

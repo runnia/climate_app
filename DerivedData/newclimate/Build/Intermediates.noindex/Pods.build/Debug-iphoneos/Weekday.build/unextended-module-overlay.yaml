@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/ksenia/university_second_cours/newclimate/DerivedData/newclimate/Build/Products/Debug-iphoneos/Weekday/Weekday.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/ksenia/university_second_cours/newclimate/DerivedData/newclimate/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Weekday.build/unextended-module.modulemap",
+    }]
+  }]
+}
