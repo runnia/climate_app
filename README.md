@@ -3,7 +3,7 @@ Easy weather app
 ## What can it do?
 This app can show you three days weather forecast for your current location and also in different cities.
 ## How it works? 
-This app is working with openweathermap.org Weather API. App is sending api calls with coordinates or city and show results.
+It wriiten in Swift 5.2 . This app is working with openweathermap.org Weather API. App is sending api calls with coordinates or city and show results.
 ## How it looks?
 This app is very simple and pretty stylish. It made with flatdesign and looks good. You can see it yourself:
 ![yIvbm0gjwlA <align="left" width="200" hspace="10" vspace="10">](https://user-images.githubusercontent.com/46632290/81840126-33abad00-9551-11ea-9d19-68b272b22c29.jpg)
